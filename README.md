@@ -5,6 +5,8 @@ Một Project nhỏ, luyện tập sử dụng Large Language Models (LLMs)
 - Dữ liệu lấy từ HuggingFace: lavita/ChatDoctor-HealthCareMagic-100k
 - Sử dụng LoRA, lượng tử hóa để rút ngắn thời gian train
 - Kết nối tới bot tạo trên telegram: LVH_heath_1110_bot (chatbot-heathy)
+  ![image](https://github.com/user-attachments/assets/88e2b05b-c412-4520-949a-4e6e177bff85)
+
 ## Phát triển thêm:
 Một số công nghệ đang và sẽ cập nhật thêm:
 - Train thêm dữ liệu tiếng Việt (hiện tại chỉ train bàng dữ liệu tiếng Anh)
