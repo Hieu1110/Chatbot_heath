@@ -10,5 +10,5 @@ Một Project nhỏ, luyện tập sử dụng Large Language Models (LLMs)
 ## Phát triển thêm:
 Một số công nghệ đang và sẽ cập nhật thêm:
 - Hiện tại bot vẫn chưa đủ thông minh, sẽ train thêm nhiều dữ liệu
-- Train thêm dữ liệu tiếng Việt (hiện tại chỉ train bàng dữ liệu tiếng Anh)
+- Train thêm dữ liệu tiếng Việt (hiện tại chỉ train bằng dữ liệu tiếng Anh)
 - Tư vấn khi người dùng gửi ảnh vấn đề gặp phải (vết thương, ...)
